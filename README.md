@@ -1,7 +1,7 @@
 # React Application
 
 This is a React application that displays a travel journal. It uses components to render cards with travel information fetched from a data source.
-
+https://travel-static-page-react.onrender.com
 ## Prerequisites
 
 - Node.js (version 18.16.0)
