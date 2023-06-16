@@ -4,8 +4,8 @@ This is a React application that displays a travel journal. It uses components t
 
 ## Prerequisites
 
-- Node.js (version X.X.X)
-- NPM (version X.X.X)
+- Node.js (version 18.16.0)
+- NPM (version 9.6.5)
 
 ## Getting Started
 
